@@ -5,6 +5,7 @@
         <content>
         <Text text="This is the first chnage"/>
         <Text text="This is a Branch1 change"/>
+        <Text text="This is a Branch2 change"/>
         </content>
     </Page>
 </mvc:View>
